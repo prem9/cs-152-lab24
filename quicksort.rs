@@ -73,3 +73,4 @@ fn main() {
     sort(&mut nums[..], asc);     // Sort using quicksort
     print_arr(&nums[..]);         // Print the sorted array
 }
+4
